@@ -1,0 +1,11 @@
+{
+  "name": "angular-bundle-templates",
+  "version": "0.0.1",
+  "bin": "index.js",
+  "dependencies": {
+    "denodeify": "^1.2.1",
+    "jsesc": "^2.2.0",
+    "lodash": "^4.16.6",
+    "minimist": "^1.2.0"
+  }
+}
